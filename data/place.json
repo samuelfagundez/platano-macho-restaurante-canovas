@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/W8pqmkk2SLxH8G7u7",
+    "expandedUrl": "https://www.google.com/maps/place/Pl%C3%A1tano+Macho+Restaurante+%22C%C3%A1novas%22/@39.4670965,-0.3672396,17z/data=!3m1!4b1!4m6!3m5!1s0xd6049edc89eb6df:0xc12bddb132d3d559!8m2!3d39.4670924!4d-0.3646593!16s%2Fg%2F11sf51sfgw?entry=tts&g_ep=EgoyMDI2MDkwMi4wIPu8ASoASAFQAw%3D%3D&skid=84c2e0ce-4fd6-4d8f-8c47-92083ec23b99&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=13919462826450343257&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJ37aeyO1JYA0RWdXTMrHdK8E",
+    "featureId": "0xd6049edc89eb6df:0xc12bddb132d3d559",
+    "gmapsPlaceRef": "/g/11sf51sfgw",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-08T22:02:58.059Z"
+  },
+  "name": "Plátano Macho Restaurante \"Cánovas\"",
+  "rating": {
+    "score": 4.8,
+    "count": 1273
+  },
+  "phone": "+34 648 22 94 09",
+  "phoneNational": "648 22 94 09",
+  "hours": {
+    "weekly": [
+      "lunes: Cerrado",
+      "martes: 18:00–22:30",
+      "miércoles: 13:30–22:30",
+      "jueves: 13:30–22:30",
+      "viernes: 13:30–23:00",
+      "sábado: 13:30–23:00",
+      "domingo: 13:30–22:30"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 0,
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 18,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 3,
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 4,
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 6,
+          "hour": 23,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [],
+  "pricePerPerson": "20 € – 30 €",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "links": {
+    "website": "https://drive.google.com/file/d/1HEnBnLMK1vvfS6zQjKXd6rFajZjmWKaU/view",
+    "menu": null,
+    "reservations": "https://drive.google.com/file/d/1HEnBnLMK1vvfS6zQjKXd6rFajZjmWKaU/view",
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=13919462826450343257&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd6049edc89eb6df:0xc12bddb132d3d559!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd6049edc89eb6df:0xc12bddb132d3d559!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd6049edc89eb6df:0xc12bddb132d3d559!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd6049edc89eb6df:0xc12bddb132d3d559!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "Carrer de Salamanca, 13, L'Eixample, 46005 València, Valencia",
+    "short": "C. de Salamanca, 13, Valencia",
+    "components": {
+      "number": "13",
+      "street": "Carrer de Salamanca",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46005"
+    }
+  },
+  "location": {
+    "lat": 39.4670924,
+    "lng": -0.36465929999999996
+  },
+  "primaryType": "colombian_restaurant",
+  "primaryTypeLabel": "Restaurante colombiano",
+  "types": [
+    "colombian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Para llevar",
+    "Terraza / asientos fuera",
+    "Menú infantil",
+    "Apto para niños",
+    "Apto para grupos",
+    "Aseos",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Opciones vegetarianas",
+    "Cerveza",
+    "Vino",
+    "Cócteles"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "freeParkingLot": true,
+    "paidParkingLot": true,
+    "paidStreetParking": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 1365,
+      "heightPx": 2048,
+      "attribution": "Plátano Macho Restaurante \"Cánovas\"",
+      "attributionUri": "https://maps.google.com/maps/contrib/108181152206845454487"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 2304,
+      "heightPx": 4096,
+      "attribution": "Plátano Macho Restaurante \"Cánovas\"",
+      "attributionUri": "https://maps.google.com/maps/contrib/108181152206845454487"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 4080,
+      "heightPx": 3060,
+      "attribution": "Myriam Ospina Cardenas",
+      "attributionUri": "https://maps.google.com/maps/contrib/105915886867559437594"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Catherine M. Jiménez",
+      "attributionUri": "https://maps.google.com/maps/contrib/110633854922610299759"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 2304,
+      "heightPx": 4096,
+      "attribution": "Plátano Macho Restaurante \"Cánovas\"",
+      "attributionUri": "https://maps.google.com/maps/contrib/108181152206845454487"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "attribution": "Andrés G",
+      "attributionUri": "https://maps.google.com/maps/contrib/105844314492346528894"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Luisa Blanco",
+      "attributionUri": "https://maps.google.com/maps/contrib/113646515204624359907"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "attribution": "Marieta",
+      "attributionUri": "https://maps.google.com/maps/contrib/102444262800444457266"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "attribution": "Marieta",
+      "attributionUri": "https://maps.google.com/maps/contrib/102444262800444457266"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Luisa Blanco",
+      "attributionUri": "https://maps.google.com/maps/contrib/113646515204624359907"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Shantall depont",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocI_S2P4PO8L8t-emnOVyxar7YCSnSKLifWh1Wu6X52oWIff9g=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/108532402131166684344/reviews",
+      "rating": 2,
+      "text": "Fui a comer con mi pareja a este sitio con mucha ilusión, ya que queríamos compartir un momento agradable. La comida fue excelente, eso hay que destacarlo, pero lamentablemente la experiencia se vio afectada por la atención.\n\nAl hacer nuestro pedido, la camarera nos preguntó si estábamos seguros, insinuando que era demasiada comida. Confirmamos que sí, pero aun así otra camarera volvió a insistir de forma incómoda, lo que ya empezó a generar una sensación poco agradable.\n\nDespués, al terminar todos los platos (ya que teníamos bastante hambre), la camarera reaccionó con gestos exagerados, aplausos y comentarios sarcásticos como “wow, vamos a tener fe en los clientes cuando piden bastante comida 🙄”. Esto nos hizo sentir juzgados y bastante incómodos en un momento que debía ser tranquilo y especial.\n\nReitero que la comida fue muy buena, pero el comportamiento de la camarera fue poco profesional y fuera de lugar. Lamentablemente, por esta experiencia, no creo que volvamos.\n\nOjalá puedan mejorar la atención al cliente, ya que tienen potencial.",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-04-04T18:06:11.889080771Z"
+    },
+    {
+      "author": "Virgilio Oropeza",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXVU4zo3z29K0SJLfnjXUA4HoLitVZ5m8djvHrUXNSf-o4HTxWVag=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/103273656908448497291/reviews",
+      "rating": 5,
+      "text": "Que rico se come aquí, que bueno poder tener esos sabores de nuestra tierra aquí en Valencia, muy bien producto muy bien elaborado y con los sabores de la tierrita!! Los felicito nos volveremos a ver pronto y los recomendaré todas las veces que pueda !!!",
+      "language": "es",
+      "relativeTime": "Hace 1 mes",
+      "publishTime": "2026-07-28T13:04:55.862333010Z"
+    },
+    {
+      "author": "Charly Dulce",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjUbAO3xFUBj-HFop6dkq4iL3mFjzwWUPombPyE3Xj3s0e4Zg5ZK=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/106089846691490885211/reviews",
+      "rating": 5,
+      "text": "En lineas generales por la experiencia que hemos tenido, buena la atención de la chica que nos toco.\n\nLa comida de estos platos están bien.\n\nSaludos",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-03-05T00:49:07.549123570Z"
+    },
+    {
+      "author": "Gloria Zuazo Aycart",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVrkoXJV7oGulcaUVlFJdFHiBtU0bFJ4sJ1CWiPAKv99u8GG8k=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/115769388122114842837/reviews",
+      "rating": 5,
+      "text": "Me gustó mucho el sitio en general. Pedimos ceviche de langostinos, una arepa y un patacon que para mi pareja y para mi fue claramente lo mejor. En relación calidad precio está muy bien, repetiría!",
+      "language": "es",
+      "relativeTime": "Hace 2 meses",
+      "publishTime": "2026-07-01T20:24:57.535279821Z"
+    },
+    {
+      "author": "ERIKA JOHANNA MINA ROJAS",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjX__qVOytfcmfasMKO-nwEt_fMMSR9aOxp5TALBk7rG7942a5E=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/112202160322155202940/reviews",
+      "rating": 5,
+      "text": "La atención de las camareras espectacular, muy atentas, la comida abundante y para mí la limonada de coco y la de frutas tropicales lo más top. Recomiendo las canastas de plátano y el maíz frito. Los postres riquísimos recomendado solo el cremoso de maracuyá y la tarta tres leches.",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-03-29T13:29:34.636784008Z"
+    }
+  ]
+}

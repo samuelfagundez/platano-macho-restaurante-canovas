@@ -12,13 +12,6 @@ export default function About() {
             Un pedacito de Colombia en {content.address.addressLocality}
           </h2>
           <p className="mt-4 text-brand-ink/80 leading-relaxed">{content.description}</p>
-
-          <div className="mt-6 flex items-center gap-3">
-            <span className="text-xl font-bold text-brand-gold-dark">★ {content.rating.value}</span>
-            <span className="text-sm text-brand-ink/70">
-              {content.rating.countDisplay} en Google · {content.cuisine}
-            </span>
-          </div>
         </div>
 
         <ul className="grid gap-4 sm:grid-cols-2">
